@@ -1,6 +1,6 @@
-# Experiment:Time Table
+# Experiment 02:Time Table
 
-## AIM:
+# AIM:
 To Write a HTML Webpage to Display First Semester TimeTable.
 
 # ALGORITHM:

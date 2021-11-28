@@ -106,4 +106,7 @@ httpd.serve_forever()
 ## SERVER SIDE OUTPUT:
 ![Output 2](./Images/Output2.png)
 
+# RESULT:
+A simple website is developed to display the First Semester Timetable.
+
 

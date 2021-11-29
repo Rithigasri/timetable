@@ -19,8 +19,6 @@ Execute the program.
 
 # CODE:
 ```
-from http.server import HTTPServer, BaseHTTPRequestHandler
-content = """
 <!DOCTYPE html>
 <html lang="en">
 <head>

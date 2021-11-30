@@ -33,7 +33,7 @@ Execute the program.
 </head>
 
 <body style="background-color:lavender">
-<img src="https://www.saveetha.ac.in/images/WEB_LOGO-01.png" alt="Logo" width="1500" height="180">
+<img src="https://www.saveetha.ac.in/images/WEB_LOGO-01.png" alt="Logo" width="1500" height="170">
 <h1 style="text-align:center;">FIRST SEMESTER TIMETABLE</h1>
 
 <table>
@@ -89,8 +89,18 @@ Execute the program.
         <td colspan="2" style="background-color: lavenderblush;line-height: 30px;text-align: center;">Mathematics for Artificial Intelligence</td>
         <td colspan="2" style="background-color: lavenderblush;line-height: 30px;text-align: center;">Web Technology Laboratory</td>
     </tr>
-
 </table>
+    <ol type="1">
+        <li>19AI401-Fundamentals of Web Technology</li>
+        <li>19AI301-Python Programming</li>
+        <li>19AI302-Engineering Design And Modeling</li>
+        <li>19AI303-Engineering  Mechanics And Product Development</li>
+        <li>19MA220-19MA221-Mathematics for Artificial Intelligence</li>
+        <li>19EY701-Soft Skills</li>
+        <li>ECA051-Mentoring-AD1</li>
+      </ol>
+
+
 </body>
 </html>
 ```

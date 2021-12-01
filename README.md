@@ -93,8 +93,8 @@ Execute the program.
     <ol type="1">
         <li>19AI401-Fundamentals of Web Technology</li>
         <li>19AI301-Python Programming</li>
-        <li>19AI302-Engineering Design And Modeling</li>
         <li>19AI303-Engineering  Mechanics And Product Development</li>
+        <li>19AI302-Engineering Design And Modeling</li>
         <li>19MA220-19MA221-Mathematics for Artificial Intelligence</li>
         <li>19EY701-Soft Skills</li>
       </ol>

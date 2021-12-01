@@ -97,7 +97,6 @@ Execute the program.
         <li>19AI303-Engineering  Mechanics And Product Development</li>
         <li>19MA220-19MA221-Mathematics for Artificial Intelligence</li>
         <li>19EY701-Soft Skills</li>
-        <li>ECA051-Mentoring-AD1</li>
       </ol>
 
 
